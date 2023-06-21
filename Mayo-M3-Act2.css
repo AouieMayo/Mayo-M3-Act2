@@ -1,0 +1,35 @@
+	.background {
+		background-attachment: fixed;
+		background-image: url("https://i.ibb.co/VDsW8tj/pngtree-pastel-color-aesthetic-background-with-vintage-leaves-picture-image-1660223.png");
+		overflow: auto;
+		}
+
+	.gallery {
+		border-radius: 10px;
+		border: 5px solid #967E76;
+		width: 612;
+		height: 455;
+		margin-left: 370px;
+		resize: none;
+		}
+
+	.desc {
+		padding: 15px;
+		text-align: center;
+		background-color: #D7C0AE;
+		font-family: Verdana;
+		}
+		
+	.title {
+		color: #967E76;
+		font-family: Impact;
+		}
+	
+	.gallery2 {
+		margin: 12px;
+		border: 3px solid #967E76;
+		float: left;
+		width: 300px;
+		resize: none;
+		}
+		
